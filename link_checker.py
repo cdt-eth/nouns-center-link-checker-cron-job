@@ -2,7 +2,8 @@ import requests
 import json
 from tqdm import tqdm
 
-LINK_JSON = "https://raw.githubusercontent.com/christiandavidturner/Nouns-Center/main/api/projects.json"
+LINK_JSON = "https://raw.githubusercontent.com/cdt-eth/Nouns-Center/main/api/projects.json"
+
 
 def main():
 
